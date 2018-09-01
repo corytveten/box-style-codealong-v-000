@@ -167,8 +167,12 @@ header {
   color: white;
 }
 
-/*////////// LOGO //////////*/
+#navbar nav a:hover {
+    color: white;
+    background: #ccc;
+}
 
+/*////////// LOGO //////////*/
 
 
 #logo h1 {
